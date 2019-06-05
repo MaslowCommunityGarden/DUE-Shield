@@ -13,3 +13,5 @@ https://github.com/ldocull/MaslowDue
  
 
 **This product does not include an Arduino DUE board**
+
+Available for purchase at [Maker Made CNC] (https://www.makermadecnc.com/product/grbl-due-shield/)
