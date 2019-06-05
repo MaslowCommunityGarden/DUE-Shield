@@ -1,7 +1,17 @@
-Edit this file to add assembly instructions
+# DUE Shield
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+GRBL based motor shield for use with Arduino DUE micro-controller board (not included).
 
+This board was designed by a Maslow community member and utilizes GRBL based firmware instead of the Maslow firmware.
 
+To read more about this product and it’s uses, please follow the link below:
 
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+ 
+
+https://github.com/ldocull/MaslowDue
+
+ 
+
+**This product does not include an Arduino DUE board**
+
+Available for purchase at [Maker Made CNC] (https://www.makermadecnc.com/product/grbl-due-shield/)
