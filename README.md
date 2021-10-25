@@ -1,6 +1,6 @@
 # Rigid Router
 
-![enter image description here](https://github.com/anthonygilbertt/DUE-Shield/blob/Update-September-21-2021/Rigid%20Router.jpeg)
+![enter image description here](https://github.com/MaslowCommunityGarden/DUE-Shield/blob/master/Rigid%20Router.jpeg)
 
 
 Ridgid 11-Amp 2 Peak Hp 1/2" Corded Variable Fixed Base Router (R22002)
